@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "yashraj.iitb@gmail.com"
+      # url: "yashraj.iitb@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -114,6 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bhosale2"
+    - label: "Google Scholar"
+      # icon: "fab fa-fw fa-github"
+      url: "https://scholar.google.com/citations?user=_yb-ZGYAAAAJ&hl=en"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
