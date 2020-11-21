@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.1" # same as adding an opacity of 0.5 to a black background
   overlay_image: /assets/images/khi.gif
   caption: "Bdubb12, Wikimedia Commons"
-<!-- excerpt: "“Somewhere, something incredible is waiting to be known.” ― Carl Sagan" -->
+#excerpt: "“Somewhere, something incredible is waiting to be known.” ― Carl Sagan"
 feature_row:
   - image_path: /assets/images/wind.gif
     alt: "research"
