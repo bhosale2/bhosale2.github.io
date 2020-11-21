@@ -5,12 +5,13 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.1" # same as adding an opacity of 0.5 to a black background
   overlay_image: /assets/images/frontpage/vortex_1600x586.png
-  caption: "Photo credit: [**Giesbert Nijhuis**](https://youtu.be/Sj9irzI-Pzw)"
-excerpt: "This is my personal/research site which I use to communicate on topics of my interest."
+  caption: "Photo credit"
+excerpt: "“Somewhere, something incredible is waiting to be known.”
+― Carl Sagan"
 feature_row:
   - image_path: /assets/images/frontpage/streaming_1200x750.png
     alt: "research"
-    title: "Research areas"
+    title: "Research"
     # excerpt: "Take a look at my research!"
     url: "/research/"
     btn_class: "btn--info"
@@ -23,7 +24,7 @@ feature_row:
     btn_class: "btn--info"
     btn_label: "Details"
   - image_path: /assets/images/frontpage/bulbs.jpg
-    alt: "linkedin"
+    alt: "travels"
     title: "Travel diaries"
     # excerpt: "If you are looking for a short read, take a look at my Linkedin"
     url: "/travels/"
