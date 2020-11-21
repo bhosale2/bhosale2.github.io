@@ -9,14 +9,14 @@ excerpt: "publications"
 the link to my Scholar profile, updated with the latest publications. My
 publications, classified type-wise and in inverse chronological order are:
 
-### Journal Papers
+## Journal Papers
 
 Lin, Kuang C., **Yashraj Bhosale**, and Cun-Yan Zhou Huang. "3D-CFD investigation into free
 convection flow above a heated horizontal cylinder: Comparisons with experimental data."
 *Applied Thermal Engineering* 120 (2017): 277-288.
 [[link](https://doi.org/10.1016/j.applthermaleng.2017.03.039)]
 
-### Conference Publications
+## Conference Presentations
 
 **Bhosale, Yashraj**, Javed Shaikh, and Atul Sharma. "Sharp Interface Level Set Method 
 Based Simulation and Energy Budget Analysis of Falling Droplet Breakup Modes."
