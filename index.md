@@ -41,7 +41,7 @@ intro:
   interplay between elasticity and fluid dynamics of FSI systems and continuum viscoelasticity.
   Besides research, I love to travel across borders and enjoy playing badminton and soccer.
   <br>
-  Feel free to contact me at bhosale2@illinois.edu'
+  Feel free to contact me at <b>bhosale2@illinois.edu</b>'
 ---
 
 {% include feature_row id="intro" type="center"%}
