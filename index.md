@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.1" # same as adding an opacity of 0.5 to a black background
   overlay_image: /assets/images/khi.gif
   caption: "Bdubb12, Wikimedia Commons"
-excerpt: "“Somewhere, something incredible is waiting to be known.” ― Carl Sagan"
+<!-- excerpt: "“Somewhere, something incredible is waiting to be known.” ― Carl Sagan" -->
 feature_row:
   - image_path: /assets/images/wind.gif
     alt: "research"
@@ -30,7 +30,18 @@ feature_row:
     btn_class: "btn--info"
     btn_label: "Details"
 intro:
-  - excerpt: 'I am a graduate student pursuing my doctorate in <a href="http://mechanical.illinois.edu/">Mechanical Sciences</a> at the <a href="http://illinois.edu/">University of Illinois at Urbana-Champaign</a>.'
+  - excerpt: 'An <a href="http://www.iitb.ac.in/">IIT Bombay</a> graduate, currently I am a 
+  graduate student pursuing my doctorate in 
+  <a href="http://mechanical.illinois.edu/">Mechanical Sciences</a> at the 
+  <a href="http://illinois.edu/">University of Illinois at Urbana-Champaign</a>, following a 
+  Masters degree in December 2019. Currently a member of 
+  <a href="https://mattia-lab.com/">Gazzola Lab</a>, I am deeply passionate about exploring 
+  and understanding, using computational and theoretical tools, the physics involving 
+  flow--structure interaction (FSI), multiphase phenomena,
+  interplay between elasticity and fluid dynamics of FSI systems and continuum viscoelasticity.
+  Besides research, I love to travel across borders and enjoy playing badminton and soccer.
+  
+  Feel free to contact me at bhosale2@illinois.edu'
 ---
 
 {% include feature_row id="intro" type="center"%}
