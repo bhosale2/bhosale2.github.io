@@ -1,12 +1,12 @@
 ---
 layout: splash
 permalink: /
+excerpt: "Personal website to communicate my research, scientific passion and travel stories."
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.1" # same as adding an opacity of 0.5 to a black background
   overlay_image: /assets/images/khi.gif
   caption: "Bdubb12, Wikimedia Commons"
-  excerpt: "Personal website to communicate my research, scientific passion and travel stories."
 feature_row:
   - image_path: /assets/images/wind.gif
     alt: "research"
