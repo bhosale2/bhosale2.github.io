@@ -40,6 +40,7 @@ intro:
   flow--structure interaction (FSI), multiphase phenomena,
   interplay between elasticity and fluid dynamics of FSI systems and continuum viscoelasticity.
   Besides research, I love to travel across borders and enjoy playing badminton and soccer.
+  {: style="text-align: justify;"}
   <br>
   Feel free to contact me at <b>bhosale2@illinois.edu</b>'
 ---

@@ -37,4 +37,4 @@ May 2018 - August 2018.
 
 ## Industrial Positions
 
-- Research Intern, *Daikin Industries, Japan*, May 2016 - July 2016.
+- **Research Intern**, *Daikin Industries, Japan*, May 2016 - July 2016.
