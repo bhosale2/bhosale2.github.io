@@ -13,8 +13,6 @@ Research under the guidance of [Prof Gazzola](https://mattia-lab.com/), in colla
 [Prof King](http://www.mbod-lab.com/) covered in ***New York Times***.
 [article link](https://www.nytimes.com/2020/03/17/science/why-birds-are-the-worlds-best-engineers.html)
 
-<button name="button" onclick="https://www.nytimes.com/2020/03/17/science/why-birds-are-the-worlds-best-engineers.html">Article link</button>
-
 ### 3D-CFD Investigation into Free Convection Flow Above a Heated Horizontal Cylinder
 
 Research under the guidance of [Prof K. C. Lin](https://sites.google.com/site/kuangclin/home)
