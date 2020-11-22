@@ -2,7 +2,7 @@
 layout: single
 permalink: /research/
 title: "Research"
-#excerpt: "Fluid mechanics and FSI across scales"
+excerpt: "Flow--structure interaction; Viscoelasticity, from discrete to the continuum"
 header:
   overlay_image: /assets/images/flag_flap.gif
   image_description: "elasticflagflow"
