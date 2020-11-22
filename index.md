@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.1" # same as adding an opacity of 0.5 to a black background
   overlay_image: /assets/images/khi.gif
   caption: "Bdubb12, Wikimedia Commons"
-#excerpt: "“Somewhere, something incredible is waiting to be known.” ― Carl Sagan"
+  excerpt: "Personal website to communicate my research, scientific passion and travel stories."
 feature_row:
   - image_path: /assets/images/wind.gif
     alt: "research"
@@ -40,7 +40,6 @@ intro:
   flow--structure interaction (FSI), multiphase phenomena,
   interplay between elasticity and fluid dynamics of FSI systems and continuum viscoelasticity.
   Besides research, I love to travel across borders and enjoy playing badminton and soccer.
-  {: style="text-align: justify;"}
   <br>
   Feel free to contact me at <b>bhosale2@illinois.edu</b>'
 ---
