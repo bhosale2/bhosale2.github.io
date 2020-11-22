@@ -2,6 +2,8 @@
 main:
   - title: "Publications"
     url: /publications/
+  - title: "Press"
+    url: /press/
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Quick-Start Guide"
