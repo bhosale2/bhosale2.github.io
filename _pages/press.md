@@ -6,13 +6,15 @@ excerpt: "press"
 #last_modified_at: 2018-05-17T08:41:35-04:00
 ---
 
-## Why Birds Are The World's Best Engineers
+### Why Birds Are The World's Best Engineers
+
+Some tidbits of my research receiving media attention...
 
 Research under the guidance of [Prof Gazzola](https://mattia-lab.com/), in collaboration with
 [Prof King](http://www.mbod-lab.com/) covered in ***New York Times***.
 [article link](https://www.nytimes.com/2020/03/17/science/why-birds-are-the-worlds-best-engineers.html)
 
-## 3D-CFD Investigation into Free Convection Flow Above a Heated Horizontal Cylinder
+### 3D-CFD Investigation into Free Convection Flow Above a Heated Horizontal Cylinder
 
 Research under the guidance of [Prof K. C. Lin](https://sites.google.com/site/kuangclin/home)
 covered in ***Advances in Engineering***.
