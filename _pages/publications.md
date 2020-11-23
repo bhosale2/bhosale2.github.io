@@ -11,27 +11,31 @@ publications, classified type-wise and in inverse chronological order are:
 
 ## Preprints
 
+**Yashraj Bhosale**, Parthasarathy, Tejaswin, and Mattia Gazzola.
+"A remeshed vortex method for mixed rigid/soft body fluid--structure interaction"
+*arXiv* preprint, arXiv:2011.09669 (2020).
+[[link](https://arxiv.org/pdf/2011.09669.pdf)]
+
 ## Journal Papers
 
 **Bhosale, Y.**, Parthasarathy, T., & Gazzola, M. (2020).
 "Shape curvature effects in viscous streaming."
 *Journal of Fluid Mechanics*, 898, A13.
-[[link](https://doi.org/10.1017/jfm.2020.404)]
+[[link](/assets/paps/curv.pdf)]
 
 **Bhosale, Yashraj**, Ehsan Esmaili, Kinjal Bhar, and Sunghwan Jung.
 "Bending, twisting and flapping leaf upon raindrop impact."
 *Bioinspiration & Biomimetics* 15, no. 3 (2020): 036007.
-[[link](https://doi.org/10.1088/1748-3190/ab68a8)]
+[[link](/assets/paps/leaf.pdf)]
 
 **Y. Bhosale**, Weiner, N., M. Gazzola, and H. King.
 "Mechanics of randomly packed filaments—The “bird nest” as meta-material."
 *Journal of Applied Physics* 127, no. 5 (2020): 050902.
-[[link](https://doi.org/10.1063/1.5132809)] ***Research Highlight***
+[[link](/assets/paps/nest.pdf)] ***Research Highlight***
 
 Lin, Kuang C., **Yashraj Bhosale**, and Cun-Yan Zhou Huang. "3D-CFD investigation into free
 convection flow above a heated horizontal cylinder: Comparisons with experimental data."
 *Applied Thermal Engineering* 120 (2017): 277-288.
-<!-- [[link](https://doi.org/10.1016/j.applthermaleng.2017.03.039)] -->
 [[link](/assets/paps/plume.pdf)]
 
 ## Theses

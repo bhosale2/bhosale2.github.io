@@ -20,7 +20,17 @@ Below, you can find brief descriptions of the research domains I'm involved in:
 
 ## Soft/rigid body flow-structure interaction
 
-Hello how are you
+Accurate and versatile solvers are the key to shed light on and dissect underlying physics in
+FSI systems presenting body elasticity/compliance, with potential applications in medicine, soft
+robotics, flow control and inertial microfluidics. With that in mind, my recent venture at
+[Gazzola Lab](https://mattia-lab.com/) with the help of my colleague
+[Tejaswin Parthasarathy](https://parthas1.github.io/) has led to the development of a robust, 
+flexible numerical algorithm for solving incompressible flow–structure interaction problems
+for mixed rigid/soft body representations, within a consistent framework based on the
+remeshed vortex method. The preprint detailing our study with the algorithm, benchmarks and
+illustrations can be found here [here](https://arxiv.org/pdf/2011.09669.pdf) with one of the
+illustration cases shown below: a rigid cylinder falling on an elastic trampoline, with both
+bodies submerged in a viscous fluid.
 {: style="text-align: justify;"}
 
 <figure class="align-center">
@@ -30,7 +40,16 @@ Hello how are you
 
 ## Viscous streaming
 
-Hello how are you
+Viscous streaming refers to the time-averaged steady flow that arises when an immersed body
+of characteristic length scale *D* undergoes small-amplitude oscillations (compared to *D)*
+in a viscous fluid. With the broad range of applications of viscous streaming in microfluidic
+flow manipulation, particle trapping, scalar transport and passive swimming, our understanding
+of how streaming flow features and topology are affected by multiple body length scales remains
+largely incomplete. In my Master's thesis work, we attempted to elucidate the mechanisms
+at play, when streaming flow topology is manipulated via regulated variations of shape geometry,
+thus providing a rational design approach for microfluidic applications. Our work, which can be
+found [here](/assets/paps/curv.pdf) has been published recently in ***Journal of Fluid Mechanics***,
+with a glimpse of the effects of geometric variation on streaming flows shown below:
 {: style="text-align: justify;"}
 
 <figure class="align-center">
