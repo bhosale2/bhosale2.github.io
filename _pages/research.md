@@ -18,3 +18,12 @@ interplay between elasticity and fluid dynamics of FSI systems and continuum vis
 Below, you can find brief descriptions of the research domains I'm involved in:
 {: style="text-align: justify;"}
 
+# Soft body flow-structure interaction
+
+Hello how are you
+{: style="text-align: justify;"}
+
+<figure class="align-center">
+  <img src="{{site.url}}{{site.baseurl}}/assets/images/tramp.gif" alt="">
+  <figcaption>A rigid cylinder falling on a soft trampoline.</figcaption>
+</figure>
