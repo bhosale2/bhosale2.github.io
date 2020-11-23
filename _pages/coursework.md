@@ -18,8 +18,32 @@ on some of these courses, the coursework involved as well as some other recommen
 given below:
 {: style="text-align: justify;"}
 
-## Asymptotic Methods
+## Fast Algorithms and Integral Equation Methods: [CS598APK](https://relate.cs.illinois.edu/course/cs598apk-f19/); [Prof Andreas Kloeckner](https://andreask.cs.illinois.edu/aboutme/)
 
-### [TAM549](https://mechanical.illinois.edu/courses/profile/TAM549), [Prof Moshe Matalon](https://mechanical.illinois.edu/directory/profile/matalon)
+This class teaches a unique flavour of techniques and tools (including the famed *Fast
+Multipole Method*) for solving PDE boundary value problems, particularly in the *integral
+equations* formulation, where a significant reduction in the algorithmic cost can be
+achieved for problems that show super-linear runtime scaling. As a course project, I
+implemented a 2D Helmholtz PDE solver based on Combined Field Integral Equation
+(CFIE) formulation for acoustic scattering from a surface in a half-space domain with
+different boundaries conditions on the boundary wall. Details can be found in this
+[report](/assets/paps/cs598rep.pdf) with the `Python` implementation of the algorithm
+in the following [repo](https://github.com/bhosale2/2d_helmholtz_solver_CFIE).
+Shown below is a scattering phenomenon from a body (details in caption):
+
+<figure class="align-center">
+  <img src="{{site.url}}{{site.baseurl}}/assets/images/apk_project.png" alt="">
+  <figcaption>Wave displacement field for (a) the incident field from a point source and (b) scattered field from a star shaped sound-soft body.</figcaption>
+</figure>
+
+## Asymptotic Methods: [TAM549](https://mechanical.illinois.edu/courses/profile/TAM549); [Prof Moshe Matalon](https://mechanical.illinois.edu/directory/profile/matalon)
 
 Content coming soon!
+
+## Other relevant courses
+
+Besides the above courses, I would also recommend some other courses offered at UIUC
+that greatly enhance the understanding of physics and mechanics of the systems seen around
+us:
+
+List coming soon!
