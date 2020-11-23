@@ -35,7 +35,8 @@ bodies submerged in a viscous fluid.
 
 <figure class="align-center">
   <img src="{{site.url}}{{site.baseurl}}/assets/images/tramp.gif" alt="">
-  <figcaption>A rigid cylinder falling under gravity on a soft trampoline.</figcaption>
+  <figcaption>A rigid cylinder falling under gravity on a soft trampoline, with orange/blue
+representing positive/negative vorticity.</figcaption>
 </figure>
 
 ## Viscous streaming
@@ -74,7 +75,7 @@ impact is shown below:
 
 <figure class="align-center">
   <img src="{{site.url}}{{site.baseurl}}/assets/images/leaf.gif" alt="">
-  <figcaption>Raindrop impact on a *Katsura* leaf.</figcaption>
+  <figcaption>Raindrop impact on a Katsura leaf.</figcaption>
 </figure>
 
 ## Emergent mechanics of a "bird nest" system
