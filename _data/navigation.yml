@@ -10,6 +10,8 @@ main:
     url: /press/
   - title: "Coursework"
     url: /coursework/
+  - title: "Travel"
+    url: /travel/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   #- title: "Quick-Start Guide"
