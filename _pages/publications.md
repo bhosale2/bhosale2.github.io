@@ -31,7 +31,8 @@ publications, classified type-wise and in inverse chronological order are:
 Lin, Kuang C., **Yashraj Bhosale**, and Cun-Yan Zhou Huang. "3D-CFD investigation into free
 convection flow above a heated horizontal cylinder: Comparisons with experimental data."
 *Applied Thermal Engineering* 120 (2017): 277-288.
-[[link](https://doi.org/10.1016/j.applthermaleng.2017.03.039)]
+<!-- [[link](https://doi.org/10.1016/j.applthermaleng.2017.03.039)] -->
+[[link](/assets/paps/plume.pdf)]
 
 ## Theses
 

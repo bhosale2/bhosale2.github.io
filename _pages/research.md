@@ -18,12 +18,53 @@ interplay between elasticity and fluid dynamics of FSI systems and continuum vis
 Below, you can find brief descriptions of the research domains I'm involved in:
 {: style="text-align: justify;"}
 
-# Soft body flow-structure interaction
+## Soft/rigid body flow-structure interaction
 
 Hello how are you
 {: style="text-align: justify;"}
 
 <figure class="align-center">
   <img src="{{site.url}}{{site.baseurl}}/assets/images/tramp.gif" alt="">
-  <figcaption>A rigid cylinder falling on a soft trampoline.</figcaption>
+  <figcaption>A rigid cylinder falling under gravity on a soft trampoline.</figcaption>
+</figure>
+
+## Viscous streaming
+
+Hello how are you
+{: style="text-align: justify;"}
+
+<figure class="align-center">
+  <img src="{{site.url}}{{site.baseurl}}/assets/images/stream.gif" alt="">
+  <figcaption>Streaming flow visualization for a circular cylinder and a bullet
+  shaped cylinder.</figcaption>
+</figure>
+
+## Dynamics of a leaf upon raindrop impact
+
+Hello how are you
+{: style="text-align: justify;"}
+
+<figure class="align-center">
+  <img src="{{site.url}}{{site.baseurl}}/assets/images/leaf.gif" alt="">
+  <figcaption>Raindrop impact on a *Katsura* leaf.</figcaption>
+</figure>
+
+## Emergent mechanics of a "bird nest" system
+
+Hello how are you
+{: style="text-align: justify;"}
+
+<figure class="align-center">
+  <img src="{{site.url}}{{site.baseurl}}/assets/images/nest.gif" alt="">
+  <figcaption>Compression cycles of different computational bird nest systems.</figcaption>
+</figure>
+
+## Natural convection characterization over a heated cylinder
+
+Hello how are you
+{: style="text-align: justify;"}
+
+<figure class="align-center">
+  <img src="{{site.url}}{{site.baseurl}}/assets/images/plume.png" alt="">
+  <figcaption>Variations of the velocity and temperature profiles over a heated cylinder.</figcaption>
 </figure>
