@@ -8,7 +8,6 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.25)
   image_description: "elasticflagflow"
   caption: "Elastic flag flapping in the wake of a rigid heated cylinder at Re=200"
-#last_modified_at: 2018-05-17T08:41:35-04:00
 ---
 
 Currently a member of <a href="https://mattia-lab.com/">Gazzola Lab</a>, I am deeply

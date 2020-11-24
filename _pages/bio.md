@@ -3,11 +3,12 @@ layout: single
 permalink: /bio/
 title: "Bio"
 excerpt: "bio"
-#last_modified_at: 2018-05-17T08:41:35-04:00
 ---
-Below is the crux of my academic/industrial profile:
+(An outdated CV can be found here:
 
-(An outdated CV can be found [here](https://drive.google.com/file/d/14fdI71jWm4XCPuhXVVciPKePSRfDEgjM/view?usp=sharing).)
+[CV](https://drive.google.com/file/d/14fdI71jWm4XCPuhXVVciPKePSRfDEgjM/view?usp=sharing){: .btn .btn--info}
+
+Below is the crux of my academic/industrial profile:
 
 ## Education
 

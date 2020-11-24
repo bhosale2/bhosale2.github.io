@@ -3,11 +3,12 @@ layout: single
 permalink: /publications/
 title: "Publications"
 excerpt: "publications"
-#last_modified_at: 2018-05-17T08:41:35-04:00
 ---
-[Here's](https://scholar.google.com/citations?user=_yb-ZGYAAAAJ&hl=en&oi=ao)
-the link to my Scholar profile, updated with the latest publications. My
-publications, classified type-wise and in inverse chronological order are:
+Here's the link to my Scholar profile, updated with the latest publications. 
+
+[Google Scholar](https://scholar.google.com/citations?user=_yb-ZGYAAAAJ&hl=en&oi=ao){: .btn .btn--info}
+
+My publications, classified type-wise and in inverse chronological order are:
 
 ## Preprints
 
