@@ -64,4 +64,4 @@ and mechanics of the systems seen around us:
 
 - Wave Motion: [TAM518](https://mechanical.illinois.edu/courses/profile/TAM518);
 [Prof Sascha Hilgenfeldt](https://mechanical.illinois.edu/directory/faculty/sascha)
-[Notes](https://drive.google.com/file/d/1uRSo8UAPgLmO41X_x39maCNKUI0-WOkg/view?usp=sharing){: .btn .btn-blue}
+<button onclick="https://drive.google.com/file/d/1uRSo8UAPgLmO41X_x39maCNKUI0-WOkg/view?usp=sharing" class="btn btn-info">Notes</button>
