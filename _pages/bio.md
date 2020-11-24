@@ -4,7 +4,7 @@ permalink: /bio/
 title: "Bio"
 excerpt: "bio"
 ---
-(An outdated CV can be found here:
+An outdated CV can be found here:
 
 [CV](https://drive.google.com/file/d/14fdI71jWm4XCPuhXVVciPKePSRfDEgjM/view?usp=sharing){: .btn .btn--info}
 

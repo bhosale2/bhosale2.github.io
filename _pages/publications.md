@@ -12,7 +12,7 @@ My publications, classified type-wise and in inverse chronological order are:
 
 ## Preprints
 
-**Yashraj Bhosale**, Parthasarathy, Tejaswin, and Mattia Gazzola.
+**Yashraj Bhosale**, Parthasarathy Tejaswin, and Mattia Gazzola.
 "A remeshed vortex method for mixed rigid/soft body fluid--structure interaction"
 *arXiv* preprint, arXiv:2011.09669 (2020).
 [[link](https://arxiv.org/pdf/2011.09669.pdf)]
