@@ -36,7 +36,7 @@ Shown below is a scattering phenomenon from a body (details in caption):
   <figcaption>Wave displacement field for (a) the incident field from a point source and (b) scattered field from a star shaped sound-soft body.</figcaption>
 </figure>
 
-## Numerical Methods for Partial Differential Equations: ([CS555](https://relate.cs.illinois.edu/course/cs555-s19/)): [Prof Paul Fischer](http://fischerp.cs.illinois.edu/)
+## Numerical Methods for Partial Differential Equations ([CS555](https://relate.cs.illinois.edu/course/cs555-s19/)): [Prof Paul Fischer](http://fischerp.cs.illinois.edu/)
 
 This course builds a strong wide foundation of numerical analysis and computational
 physics by covering the basics of finite differences, volumes and elements (mostly),
@@ -65,4 +65,4 @@ and mechanics of the systems seen around us:
 - ***Wave Motion***: ([TAM518](https://mechanical.illinois.edu/courses/profile/TAM518)):
 [Prof Sascha Hilgenfeldt](https://mechanical.illinois.edu/directory/faculty/sascha)
 
-<button onclick="https://drive.google.com/file/d/1uRSo8UAPgLmO41X_x39maCNKUI0-WOkg/view?usp=sharing" class="btn btn-info">Notes</button>
+<button onclick="https://drive.google.com/file/d/1uRSo8UAPgLmO41X_x39maCNKUI0-WOkg/view?usp=sharing" class="btn btn--info">Notes</button>
