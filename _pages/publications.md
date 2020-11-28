@@ -4,9 +4,11 @@ permalink: /publications/
 title: "Publications"
 excerpt: "publications"
 ---
-Here's the link to my Scholar profile, updated with the latest publications. 
+Here's the links to my research profiles, updated with the latest publications. 
 
 [Google Scholar](https://scholar.google.com/citations?user=_yb-ZGYAAAAJ&hl=en&oi=ao){: .btn .btn--info}
+[ResearchGate](https://www.researchgate.net/profile/Yashraj_Bhosale2){: .btn .btn--info}
+[ORCID](https://orcid.org/0000-0003-3424-8998){: .btn .btn--info}
 
 My publications, classified type-wise and in inverse chronological order are:
 
