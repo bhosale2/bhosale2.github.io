@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: rgba(0, 0, 0, 0.25) # same as adding an opacity of 0.5 to a black background
   overlay_image: /assets/images/khi.gif
-  caption: "Bdubb12, Wikimedia Commons"
+  caption: "Kelvin--Helmholtz instability, Credits: Bdubb12, Wikimedia Commons"
 feature_row:
   - image_path: /assets/images/wind.gif
     alt: "research"
