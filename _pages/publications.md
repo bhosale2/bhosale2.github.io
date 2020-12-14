@@ -19,6 +19,11 @@ My publications, classified type-wise and in inverse chronological order are:
 *arXiv* preprint, arXiv:2011.09669 (2020).
 [[link](https://arxiv.org/pdf/2011.09669.pdf)]
 
+Parthasarathy, Tejaswin, **Yashraj Bhosale**, and Mattia Gazzola. "A simple, rigorous
+benchmark for fully coupled flow--structure interaction algorithms"
+arXiv preprint arXiv:2011.09453 (2020).
+[[link](https://arxiv.org/pdf/2011.09453.pdf)]
+
 ## Journal Papers
 
 **Bhosale, Y.**, Parthasarathy, T., & Gazzola, M. (2020).
@@ -48,11 +53,6 @@ University of Illinois at Urbana-Champaign, 2019.
 [[link](https://www.ideals.illinois.edu/handle/2142/106498)]
 
 ## Conference Presentations (selected)
-
-Weiner, Nichalas, Hunter King, **Yashraj Bhosale**, and Mattia Gazzola. 
-"Emergent plasticity and hysteresis in disordered packings of filaments." 
-*Bulletin of the American Physical Society 65 (2020)*.
-[[link](http://meetings.aps.org/Meeting/MAR20/Session/F25.5)]
 
 Parthasarathy, Tejaswin, **Yashraj Bhosale**, Fan Kiat Chan, and Mattia Gazzola.
 "Flow manipulation via the effects of shape geometry and topology."
