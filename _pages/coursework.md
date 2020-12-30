@@ -62,6 +62,8 @@ and mechanics of the systems seen around us:
 - ***Asymptotic Methods*** ([TAM549](https://mechanical.illinois.edu/courses/profile/TAM549)):
 [Prof Moshe Matalon](https://mechanical.illinois.edu/directory/profile/matalon)
 
+[Notes](https://drive.google.com/file/d/129_9zqmR5DI6yS5vbpzSiuamvr_4Psf2/view?usp=sharing){: .btn .btn--info}
+
 - ***Wave Motion*** ([TAM518](https://mechanical.illinois.edu/courses/profile/TAM518)):
 [Prof Sascha Hilgenfeldt](https://mechanical.illinois.edu/directory/faculty/sascha)
 
